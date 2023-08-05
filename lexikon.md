@@ -54,7 +54,8 @@ Kontinent auf dem heute alle Völker beheimatet sind Ladoran
 
 Gott des Lichts an welchen jedes Volk glaubt.
 
-Zeichen der Kirche Lehiod
+Zeichen der Kirche Lehiod. Soll die aufgehende Sonne symbolisieren.
+
 ![Zeichen](images/Kirche%20Heliod.fw.png)
 
 # Menschen Städte
