@@ -228,7 +228,7 @@ Zwerge sind stark, klein, zäh und technisch sehr fortgeschritten, wenn auch die
 
 <img src="images/Zwergenlande.png" width="400"/>
 
-Sie leben im Süd-Osten. Dieser Gebirgige Teil ist weniger schwer zu durchdringen, wie die Klippen der Feenlande. Landwirtschaft betreiben die Zwerge an Hanglagen und in angelegten Terrassenanbau an Berghängen.
+Sie leben im Süd-Westen. Dieser Gebirgige Teil ist weniger schwer zu durchdringen, wie die Klippen der Feenlande. Landwirtschaft betreiben die Zwerge an Hanglagen und in angelegten Terrassenanbau an Berghängen.
 Ihre Hauptstadt ist Erzberg.
 
 #### 1.3.4.3. Lebensweise
@@ -248,7 +248,7 @@ Affinität zu stärke. Zwerge starten mit einer erhöhten Stärke und einem Stä
 
 <img src="images/Wildfolk6.png" width="400"/>
 
-*Wildfolk mit Falkensegen. Wildvolk mit Flügeln kann nicht fliegen*
+*Wildvolk mit Falkensegen. Wildvolk mit Flügeln kann nicht fliegen*
 
 <img src="images/Wildfolk2.jpg" width="400"/>
 
@@ -278,10 +278,10 @@ Sie leben in starkem Einklang mit der Natur. Sie können mit der Wildnis kommuni
 
 *Wildvolk Baumhauskolonie*
 
-Die Wildvolklande sind von dichten Wäldern überzogen. Die natürlich gewachsene Vegetation erschwert es vielen anderen Völkern sich dort effektiv fortbewegen zu können. Auch sind schwere und große Maschinen hier meist nutzlos. Die Kolonien des Wildfolks sind fast ausschließlich Baumhäuser. Ihre Technologie beschränkt sich aus einfach verarbeiteten Werkzeugen aus Holz und Stein. Im Kampf greifen sie auf Tierische Aggressivität, Brutalität und Gewandtheit zurück. Sie nutzen auch die umgebene Natur und Wildnis zu ihrem Vorteil, sei es passiv durch das unwegsame Gelände oder aktiv durch Befehle an die Natur.
+Die Wildvolklande sind von dichten Wäldern überzogen. Die natürlich gewachsene Vegetation erschwert es vielen anderen Völkern sich dort effektiv fortbewegen zu können. Auch sind schwere und große Maschinen hier meist nutzlos. Die Kolonien des Wildvolks sind fast ausschließlich Baumhäuser. Ihre Technologie beschränkt sich aus einfach verarbeiteten Werkzeugen aus Holz und Stein. Im Kampf greifen sie auf Tierische Aggressivität, Brutalität und Gewandtheit zurück. Sie nutzen auch die umgebene Natur und Wildnis zu ihrem Vorteil, sei es passiv durch das unwegsame Gelände oder aktiv durch Befehle an die Natur.
 
 Ihre Lande reichen am weitesten in das Landesinnere, da sie länger mit der Wildnis klar kommen. Das schwarze Plasma und die nicht beeinflussbaren Biester des Landesinneren gebieten aber auch ihnen irgendwann einhalt.
-Die Hauptstadt des Wildfolks ist Bosken.
+Die Hauptstadt des Wildvolks ist Bosken.
 
 #### 1.3.5.3. Lebensweise
 

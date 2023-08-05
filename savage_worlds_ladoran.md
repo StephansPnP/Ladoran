@@ -1,5 +1,4 @@
 - [1. Menschen](#1-menschen)
-  - [1.1. Passives](#11-passives)
 - [2. Feen](#2-feen)
   - [2.1. Volk Fähigkeit: Fliegen](#21-volk-fähigkeit-fliegen)
   - [2.2. Passives](#22-passives)
@@ -15,7 +14,7 @@
 
 # 1. Menschen
 
-## 1.1. Passives
+Unveränderte Regelanwendung für die Char Erstellung aus den Regelbüchern für Menschen.
 
 # 2. Feen
 
